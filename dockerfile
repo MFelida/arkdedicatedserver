@@ -50,4 +50,4 @@ EXPOSE $PORTGAME/udp $PORTRAW/udp $PORTQUERY/udp $PORTRCON/tcp
 #-----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Start Ark Server
-CMD [ "/home/steam/startark.sh" ]
+CMD [ "/home/steam/runark.sh" ]
